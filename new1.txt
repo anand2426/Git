@@ -1,3 +1,6 @@
 hii this is anand from bangalore
 anand again repeat
+<<<<<<< HEAD
 change in local repo
+change in remote repo
+
